@@ -1,11 +1,9 @@
 # This is a CORP Engine example about making a simple gravity engine.
 # Last updated: 16 January 2022
-# Source: @PyxleDev0/corp-engine-examples/gravity.py
 
 # Importing ----------------------------------------------------------------|
-from curses import window
 import corpengine
-from corpengine import Entity, flags
+from corpengine import Entity, flags  # import flags module & Entity object type
 
 # Initialization -----------------------------------------------------------|
 engine = corpengine.init(windowTitle='Examples - Gravity', flags=flags.SCALED)
