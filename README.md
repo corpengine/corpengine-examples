@@ -6,7 +6,7 @@ CORP Engine is a game engine/toolkit made in Python using the Pygame library. ( 
 ## What does this repository feature?
 It has a bunch of example python projects which use the CORP Engine.
 ### Current Examples
-
+[Minecraft](https://github.com/corpengine/examples/tree/master/minecraft)
 
 
 ##### CORP Contributors 
