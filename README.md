@@ -12,5 +12,4 @@ It has a bunch of example python projects which use the CORP Engine.
 
 ##### CORP Contributors 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=corpengine/corpengine) 
-##### Examples Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=corpengine/examples)
+
