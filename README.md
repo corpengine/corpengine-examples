@@ -8,5 +8,5 @@ It has a bunch of example python projects which use the CORP Engine.
 (These examples are currenty using CORPEngine v0.8.0)
 
 #### Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=corpengine/corpengine) ![GitHub Contributors Image](https://contrib.rocks/image?repo=corpengine/corpengine-examples) 
+![GitHub Contributors Image](https://contrib.rocks/image?repo=corpengine/corpengine-examples) 
 
